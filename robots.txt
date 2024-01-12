@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://domino99online.simlab.org/sitemap.xml
